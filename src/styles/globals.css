@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply max-w-[90%] w-[1080px] mx-auto bg-zinc-100;
+}
